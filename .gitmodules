@@ -1,0 +1,15 @@
+[submodule "cb2023/TCCBypass/CVE-2022-42789"]
+	path = cb2023/TCCBypass/CVE-2022-42789
+	url = git@github.com:FFRI/AotPoisoning.git
+[submodule "bhasia2023/AotPoisoning"]
+	path = bhasia2023/AotPoisoning
+	url = git@github.com:FFRI/AotPoisoning.git
+[submodule "bhasia2023/XtacPoisoning"]
+	path = bhasia2023/XtacPoisoning
+	url = git@github.com:FFRI/XtacPoisoning.git
+[submodule "cb2021/ProjectChameleon"]
+	path = cb2021/ProjectChameleon
+	url = git@github.com:FFRI/ProjectChameleon.git
+[submodule "bheu2020/XtaTools"]
+	path = bheu2020/XtaTools
+	url = git@github.com:FFRI/XtaTools.git
