@@ -13,3 +13,6 @@
 [submodule "bheu2020/XtaTools"]
 	path = bheu2020/XtaTools
 	url = git@github.com:FFRI/XtaTools.git
+[submodule "bhusa2024/orom-backdoor-research"]
+	path = bhusa2024/orom-backdoor-research
+	url = git@github.com:FFRI/orom-backdoor-research.git
